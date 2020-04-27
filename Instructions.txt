@@ -1,0 +1,14 @@
+1) WebScrape data from webpage __
+2) Load into SQL:
+    a) Download Oracle SQL Developer & Database Express
+    b) Setup localhost
+        Log into SQL Plus as username of "system" and your master password.
+        Run this command: alter session set "_ORACLE_SCRIPT"=true;
+        Next, Run this command: create user <username> identified by "<password>";
+        Next, Run this command: grant all privileges to <username>;
+        https://www.youtube.com/watch?time_continue=16&v=ga8q90XFqDk&feature=emb_logo
+        https://youtu.be/KDu_VF9xaGk
+        https://youtu.be/UWdODgQwE6k
+    c) Setup python sql connector
+    https://www.youtube.com/watch?time_continue=281&v=xgyVilYfJEo&feature=emb_logo
+    
