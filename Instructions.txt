@@ -11,4 +11,7 @@
         https://youtu.be/UWdODgQwE6k
     c) Setup python sql connector
     https://www.youtube.com/watch?time_continue=281&v=xgyVilYfJEo&feature=emb_logo
+
+
+    Selenium - https://youtu.be/4pD4eQDbW6Q
     
