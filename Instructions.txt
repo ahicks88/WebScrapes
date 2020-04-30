@@ -1,6 +1,9 @@
 1) WebScrape data from webpage __
 2) Load into SQL:
     a) Download Oracle SQL Developer & Database Express
+        If you run into installation errors, make sure to unset ORACLE_HOME & TNS_ADMIN in BASH: 
+        https://community.oracle.com/thread/4271793?start=0&tstart=0
+        https://software.databasedevelop.com/article/10485280/unset+ORACLE_HOME+and+TNS_ADMIN
     b) Setup localhost
         Log into SQL Plus as username of "system" and your master password.
         Run this command: alter session set "_ORACLE_SCRIPT"=true;
