@@ -1,0 +1,15 @@
+Create User
+Drop User
+Create Roles & Grant Privileges
+    CREATE ROLE <variable> IDENTIFIED BY <password>;
+    GRANT SELECT, INSERT, UPDATE, DELETE, ALTER TO <role>;               Full List: https://docs.oracle.com/database/121/TTSQL/privileges.htm#TTSQL341
+    GRANT <role> TO <user>;
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Streamlined procedure to scape any URL-based CSV and push it into an Oracle SQL database.
+
+
+
