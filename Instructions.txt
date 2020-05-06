@@ -24,3 +24,4 @@
     Issues with removing all parts of Oracle should be addressed with this website:
     https://docs.oracle.com/cd/B19306_01/install.102/b14317/deinstall.htm#CIHDEFAD
     
+    Change user password in Windows command line: https://www.windows-commandline.com/change-user-password-in-windows-command-line/
